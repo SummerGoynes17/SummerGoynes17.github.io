@@ -42,7 +42,7 @@
         createPlatform(200, 440, 0.6);
         createPlatform(500, 400, 0.7);
         createPlatform(460, 310, 0.4);
-        createCannon(top, 450);
+
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     }
